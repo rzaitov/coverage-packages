@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>xamarin.MonoMac.CFNetwork.Test</string>
+	<key>CFBundleName</key>
+	<string>Test</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.7</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>BuildMachineOSBuild</key>
+	<string>16C68</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>MonoBundleExecutable</key>
+	<string>MonoMac.CFNetwork.Test.exe</string>
+	<key>CFBundleExecutable</key>
+	<string>MonoMac.CFNetwork.Test</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>8C1002</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>16C68</string>
+	<key>DTSDKName</key>
+	<string>macosx10.12</string>
+	<key>DTXcode</key>
+	<string>0820</string>
+	<key>DTXcodeBuild</key>
+	<string>8C1002</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © rzaitov</string>
+</dict>
+</plist>
